@@ -4,6 +4,6 @@ Alma tiene 28 años y nació en México.
 
 Hoy hablaremnos de su historia.
 
-En cáara parece alta, pero en verdad no lo es.
+En cámara parece alta, pero en verdad no lo es.
 
 Hoy se encuentra estudiando para poder conseguir un empleo como desarrollador frontend.
