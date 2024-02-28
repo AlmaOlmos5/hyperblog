@@ -9,6 +9,8 @@ Un blog de ejemplo para el curso de Git y GitHub de [Platzi](https://platzi.com/
 * El verdadero amor por las pruebas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
-
+* Platzi es increíble para aprender nuevas habilidades en el área tech. 
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 y como recordatorio... **Este Readme.md es un chiste** 
