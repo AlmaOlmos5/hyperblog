@@ -14,3 +14,5 @@ Un blog de ejemplo para el curso de Git y GitHub de [Platzi](https://platzi.com/
 * Disponible para todas las edades
 
 y como recordatorio... **Este Readme.md es un chiste** 
+
+ingresa a https://almaolmos5.github.io/hyperblog/blogpost.html
